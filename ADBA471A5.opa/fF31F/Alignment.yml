@@ -1,0 +1,19 @@
+segment_sources:
+  IE756469E:
+    type: origin_type
+    relation: translation
+    language: en
+  I78BA47BF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0423fa8cf89c492f8ec915d2ad423075:
+    IE756469E: a4ff0c0bf5904b0bb3cb23dea0137647
+    I78BA47BF: ef3c7b49865143f181837183b1420a2a
+  71d70b2a189945ef81d553b953bb557f:
+    IE756469E: 1b433f2ca04a469181842f728183013d
+    I78BA47BF: 16c058a730444fe59885fde647b99c6b
+  c965705a33a145519a4f3a785979eaed:
+    IE756469E: 06dd3e665e75434dbeccf0b6913fc48a
+    I78BA47BF: 7e06500bd8354129ac9f6bae69c474a0
